@@ -2,7 +2,9 @@
 ### command to copy this repository to your computer: 
 ### >git clone https://github.com/VaticanObsSummerSchool2023/lectures.git
 
-## WEEK 1
+
+&nbsp;  
+## **WEEK 1**
 
 ### June 5 (Monday)
 
@@ -15,7 +17,8 @@
 ### June 9 (Friday)
 
 
-## WEEK 2
+&nbsp;  
+## **WEEK 2**
 
 ### June 12 (Monday)
 
@@ -29,8 +32,8 @@
 
 ### June 16 (Friday)
 
-
-## WEEK 3 
+&nbsp;  
+## **WEEK 3**
 
 ### June 19 (Monday)
 
@@ -47,7 +50,8 @@
 * [10:15-11:30: Introduction to Bayesian statistics (Z. Ivezic)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune23.ipynb)
 
 
-## WEEK 4
+&nbsp;  
+## **WEEK 4**
 
 ### June 26 (Monday)
 
