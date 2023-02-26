@@ -8,6 +8,8 @@
 
 ### June 5 (Monday)
 
+* [11:45-12:45: Introduction to School (Viviana and Zeljko)]()
+
 ### June 6 (Tuesday)
 
 ### June 7 (Wednesday)
@@ -15,6 +17,8 @@
 ### June 8 (Thursday)
 
 ### June 9 (Friday)
+
+#### *No lectures - visit to Arcetri!*
 
 
 &nbsp;  
@@ -69,6 +73,7 @@
 
 ### June 30 (Friday)
 
+#### *No lectures - graduation!*
 
 
 
