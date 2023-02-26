@@ -1,10 +1,10 @@
-## Lecture Materials for the Vatican Observatory Summer School 2023
+# Lecture Materials for the Vatican Observatory Summer School 2023
 ### command to copy this repository to your computer: 
 ### >git clone https://github.com/VaticanObsSummerSchool2023/lectures.git
 
 
 &nbsp;  
-## **WEEK 1**
+### **WEEK 1**
 
 ### June 5 (Monday)
 
@@ -18,7 +18,7 @@
 
 
 &nbsp;  
-## **WEEK 2**
+### **WEEK 2**
 
 ### June 12 (Monday)
 
@@ -33,7 +33,7 @@
 ### June 16 (Friday)
 
 &nbsp;  
-## **WEEK 3**
+### **WEEK 3**
 
 ### June 19 (Monday)
 
@@ -51,7 +51,7 @@
 
 
 &nbsp;  
-## **WEEK 4**
+### **WEEK 4**
 
 ### June 26 (Monday)
 
