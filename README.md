@@ -14,6 +14,8 @@
 
 ### June 7 (Wednesday)
 
+[Afternoon tutorials: SQL and SDSS CasJobs (D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb)
+
 ### June 8 (Thursday)
 
 ### June 9 (Friday)
