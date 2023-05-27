@@ -8,13 +8,17 @@
 
 ### June 5 (Monday)
 
-* [11:45-12:45: Introduction to School (Viviana and Zeljko)]()
+* [11:45 - 12:45] Introduction to School (Viviana and Zeljko)]()
+
+* [14:00 - ] [Tutorial: Git, GitHub, and Notebooks](https://colab.research.google.com/drive/1eY5O5OhMppbRbw91znPDDTK0_RT70TGR?usp=sharing)
 
 * [14:00 -- ] [Tutorial: Git, GitHub, and Notebooks](https://colab.research.google.com/drive/1eY5O5OhMppbRbw91znPDDTK0_RT70TGR?usp=sharing)
 
 ### June 6 (Tuesday)
 
 ### June 7 (Wednesday)
+
+[Afternoon tutorials: SQL and SDSS CasJobs (D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb)
 
 ### June 8 (Thursday)
 
