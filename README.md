@@ -16,7 +16,7 @@
 
 * [08:30 - 09:45] Science drivers: MW and transients (Zeljko)
 * [10:15 - 11:30] [Science drivers: Galaxies](https://docs.google.com/presentation/d/1oeS4rFJ1S8awk26LoJ4vUE2djAPq8e_I6GJtRC0_FqE/edit?usp=sharing) (Paco)
-* [11:45 - 12:45] Science drivers: Galaxies (Stefano Cristiani)
+* [11:45 - 12:45] Science drivers: Quasars (Stefano Cristiani)
 
 ### June 7 (Wednesday)
 
