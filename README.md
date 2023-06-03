@@ -65,12 +65,12 @@
 ### June 21 (Wednesday)
 
 ### June 22 (Thursday)
-* [8:30-9:45: Introduction to Deep Learning 1](linkHere) (Marc)
-* [10:15-11:30: Maximum Likelihood Method](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune22.ipynb) (Zeljko)
+* [8:30-9:45] [Introduction to Deep Learning 1](linkHere) (Marc)
+* [10:15-11:30] [Maximum Likelihood Method](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune22.ipynb) (Zeljko)
 
 ### June 23 (Friday)
-* [8:30-9:45: Introduction to Deep Learning  2](linkHere) (Marc)
-* [10:15-11:30: Introduction to Bayesian statistics](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune23.ipynb) (Zeljko)
+* [8:30-9:45] [Introduction to Deep Learning  2](linkHere) (Marc)
+* [10:15-11:30] [Introduction to Bayesian statistics](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune23.ipynb) (Zeljko)
 
 
 &nbsp;  
@@ -82,13 +82,14 @@
 
 ### June 28 (Wednesday)
 
-* [8:30-9:45: Generative Models 1](linkHere) (Marc)
-* [10:15-11:30: Markov Chain Monte Carlo methods](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune28.ipynb) (Zeljko)
+* [8:30-9:45] [Generative Models 1](linkHere) (Marc)
+* [10:15-11:30] [Markov Chain Monte Carlo methods](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune28.ipynb) (Zeljko)
 
 ### June 29 (Thursday)
 
-* [8:30-9:45: MCMC applications in Bayesian statistics](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune29.ipynb) (Zeljko)
-* [10:15-11:30: Generative Models 2](linkHere) (Marc)
+* [8:30-9:45] [MCMC applications in Bayesian statistics](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune29.ipynb) (Zeljko)
+* [10:15-11:30] [Generative Models 2](linkHere) (Marc)
+
 
 ### June 30 (Friday)
 
