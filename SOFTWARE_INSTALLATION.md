@@ -156,7 +156,7 @@ On Windows, see in the [above](#windows).
 
 # astroML installation <a name="astroML"></a>
  
-[See](https://www.astroml.org/user_guide/installation.html) for astroML installation
+[Follow this link for astroML installation](https://www.astroml.org/user_guide/installation.html) 
 
 
 
