@@ -3,7 +3,9 @@
 ### >git clone https://github.com/VaticanObsSummerSchool2023/lectures.git
 
 
-&nbsp;  
+[For software installation instructions,see](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/SOFTWARE_INSTALLATION.md)
+
+
 ### **WEEK 1**
 
 ### June 5 (Monday)
