@@ -8,7 +8,7 @@
 
 ### June 5 (Monday)
 
-* [11:45 - 12:45] Introduction to School (Viviana and Zeljko)()
+* [11:45 - 12:45] Introduction to School (Viviana and Zeljko)
 
 * [14:00 - ] [Tutorial: Git, GitHub, and Notebooks](https://colab.research.google.com/drive/1eY5O5OhMppbRbw91znPDDTK0_RT70TGR?usp=sharing) (Paco)
 
