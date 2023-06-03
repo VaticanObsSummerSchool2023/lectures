@@ -6,6 +6,7 @@
     - [Windows](#windows)
     - [Library requirements](#python-req) 
 - [Jupyter](#jupyter)
+- [Jupyter2](#astroML)
 - [astroML installation](#astroML)
 
 
