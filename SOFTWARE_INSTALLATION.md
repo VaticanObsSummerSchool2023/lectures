@@ -4,11 +4,9 @@
     - [Mac](#mac)
     - [Linux](#linux)
     - [Windows](#windows)
-    - [Library requirements](#python-req)
-- [Recommendation for R & Rstudio installation](#R)
-- [Jupyter](#jupyter)    
-    - [Using the R programming language in Jupyter Notebook](#RNotebook)
-- [IDE: PyCharm](#pycharm)
+    - [Library requirements](#python-req) 
+- [Jupyter](#jupyter)  
+- [astroML installation](#astroML)
 
 
 
@@ -156,7 +154,7 @@ To launch a Jupyter notebook, simply run the following command:
 On Windows, see in the [above](#windows).
  
 
-# astroML installation <a name="R"></a>
+# astroML installation <a name="astroML"></a>
  
 [See](https://www.astroml.org/user_guide/installation.html) for astroML installation
 
