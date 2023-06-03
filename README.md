@@ -10,13 +10,16 @@
 
 * [11:45 - 12:45] Introduction to School (Viviana and Zeljko)
 
-* [14:00 - ] [Tutorial: Git, GitHub, and Notebooks](https://colab.research.google.com/drive/1eY5O5OhMppbRbw91znPDDTK0_RT70TGR?usp=sharing) (Paco)
+* [14:00 - 16:30] [Tutorial: Git, GitHub, and Notebooks](https://colab.research.google.com/drive/1eY5O5OhMppbRbw91znPDDTK0_RT70TGR?usp=sharing) (Paco)
 
 ### June 6 (Tuesday)
 
 * [08:30 - 09:45] [Science drivers: the Milky Way and time domain](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune6.pptx) (Zeljko)
 * [10:15 - 11:30] [Science drivers: Galaxies](https://docs.google.com/presentation/d/1oeS4rFJ1S8awk26LoJ4vUE2djAPq8e_I6GJtRC0_FqE/edit?usp=sharing) (Paco)
 * [11:45 - 12:45] [Science drivers: Quasars](https://drive.google.com/file/d/14W1t_oyJ4uErJvw-bvLwBje82Rd7_VQV/view?usp=share_link) (Stefano Cristiani)
+  
+* [14:00 - 16:30] [Tutorial: Accessing and Manipulating Data](linkXXX) (Zeljko)
+
 
 ### June 7 (Wednesday)
 
