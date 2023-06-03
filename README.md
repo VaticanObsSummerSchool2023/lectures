@@ -14,7 +14,7 @@
 
 ### June 6 (Tuesday)
 
-* [08:30 - 09:45] [Science drivers: the Milky Way and time domain](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune6.pptx) (Zeljko)
+* [8:30 - 9:45] [Science drivers: the Milky Way and time domain](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune6.pptx) (Zeljko)
 * [10:15 - 11:30] [Science drivers: Galaxies](https://docs.google.com/presentation/d/1oeS4rFJ1S8awk26LoJ4vUE2djAPq8e_I6GJtRC0_FqE/edit?usp=sharing) (Paco)
 * [11:45 - 12:45] [Science drivers: Quasars](https://drive.google.com/file/d/14W1t_oyJ4uErJvw-bvLwBje82Rd7_VQV/view?usp=share_link) (Stefano Cristiani)
   
@@ -23,14 +23,16 @@
 
 ### June 7 (Wednesday)
 
-* [11:45 - 12:45] [Decision Trees (Viviana)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) 
+* [11:45 - 12:45] [Decision Trees](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
 
-[Afternoon tutorials: SQL and SDSS CasJobs (D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb)
+* [14:00 - 16:30] [Tutorial:  SQL and SDSS CasJobs (prepared by D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb) (Paco)
+
 
 ### June 8 (Thursday)
 
-* [10:15 - 11:30] [k Nearest Neighbors (Viviana)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_kNN.pptx)
-* [11:45 - 12:45] [Diagnosing and Improving ML models (Viviana)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx)
+* [10:15 - 11:30] [k Nearest Neighbors](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_kNN.pptx) (Viviana)
+* [11:45 - 12:45] [Diagnosing and Improving ML models](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
+  
 * [? - ?] [Science drivers: InterGalactic Medium, Cosmology and Quasar Surveys](https://drive.google.com/file/d/1ymSP2vLTWtRKhO4YVUcxe1uxleA2arN3/view?usp=share_link) (Stefano Cristiani)
 
 ### June 9 (Friday)
@@ -63,12 +65,12 @@
 ### June 21 (Wednesday)
 
 ### June 22 (Thursday)
-* [8:30-9:45: Introduction to Deep Learning 1 (Marc)]()
-* [10:15-11:30: Maximum Likelihood Method (Z. Ivezic)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune22.ipynb)
+* [8:30-9:45: Introduction to Deep Learning 1](linkHere) (Marc)
+* [10:15-11:30: Maximum Likelihood Method](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune22.ipynb) (Zeljko)
 
 ### June 23 (Friday)
-* [8:30-9:45: Introduction to Deep Learning  2 (Marc)]()
-* [10:15-11:30: Introduction to Bayesian statistics (Z. Ivezic)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune23.ipynb)
+* [8:30-9:45: Introduction to Deep Learning  2](linkHere) (Marc)
+* [10:15-11:30: Introduction to Bayesian statistics](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune23.ipynb) (Zeljko)
 
 
 &nbsp;  
@@ -80,13 +82,13 @@
 
 ### June 28 (Wednesday)
 
-* [8:30-9:45: Generative Models 1 (Marc)]()
-* [10:15-11:30: Markov Chain Monte Carlo methods (Z. Ivezic)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune28.ipynb)
+* [8:30-9:45: Generative Models 1](linkHere) (Marc)
+* [10:15-11:30: Markov Chain Monte Carlo methods](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune28.ipynb) (Zeljko)
 
 ### June 29 (Thursday)
 
-* [8:30-9:45: MCMC applications in Bayesian statistics (Z. Ivezic)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune29.ipynb)
-* [10:15-11:30: Generative Models 2 (Marc)]()
+* [8:30-9:45: MCMC applications in Bayesian statistics](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune29.ipynb) (Zeljko)
+* [10:15-11:30: Generative Models 2](linkHere) (Marc)
 
 ### June 30 (Friday)
 
