@@ -3,7 +3,7 @@
 ### >git clone https://github.com/VaticanObsSummerSchool2023/lectures.git
 
 
-###[Software installation instructions](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/SOFTWARE_INSTALLATION.md)
+== [Software installation instructions](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/SOFTWARE_INSTALLATION.md) ==
 
 
 ### **WEEK 1**
