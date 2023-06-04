@@ -158,8 +158,8 @@ On Windows, see in the [above](#windows).
  
 [Follow this link for astroML installation](https://www.astroml.org/user_guide/installation.html) 
 
-To test your astroML installation, execute testInstallation.ipynb as
-> `jupyter notebook testInstallation.ipynb`
+To test your astroML installation, execute testInstallation.ipynb (you can find it in the top directory" as
+> 'jupyter notebook testInstallation.ipynb'
 and run all cells.
 
 
