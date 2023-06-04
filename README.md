@@ -12,7 +12,7 @@
 
 * [11:45 - 12:45] [Introduction to School](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS2023_introLecture.pptx) (Viviana and Zeljko)
 
-* [14:00 - 16:30] [Tutorial: Git, GitHub, and Notebooks](https://colab.research.google.com/drive/1eY5O5OhMppbRbw91znPDDTK0_RT70TGR?usp=sharing) (Paco)
+* [14:00 - 16:30] [Tutorial: Git, GitHub, and Notebooks](https://docs.google.com/presentation/d/1q30oOAyfFAEx0sdM8aYATYfCjt1IWtj5rtydm-4k2lY/edit?usp=sharing) (Paco)
 
 ### June 6 (Tuesday)
 
