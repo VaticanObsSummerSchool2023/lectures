@@ -19,7 +19,7 @@
 * [8:30 - 9:45] [Science drivers: the Milky Way and time domain](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune6.pptx) (Zeljko)
 * [10:15 - 11:30] [Science drivers: Galaxies](https://docs.google.com/presentation/d/1oeS4rFJ1S8awk26LoJ4vUE2djAPq8e_I6GJtRC0_FqE/edit?usp=sharing) (Paco)
 * [11:45 - 12:45] [Science drivers: Quasars](https://drive.google.com/file/d/14W1t_oyJ4uErJvw-bvLwBje82Rd7_VQV/view?usp=share_link) (Stefano Cristiani)
-  
+
 * [14:00 - 16:30] [Tutorial: Accessing and Manipulating Data](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune7.ipynb) (Zeljko)
 
 
@@ -37,7 +37,7 @@
 * [10:15 - 11:30] [k Nearest Neighbors](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_kNN.pptx) (Viviana)
 * [11:45 - 12:45] [Diagnosing and Improving ML models](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
   
-* [? - ?] [Science drivers: InterGalactic Medium, Cosmology and Quasar Surveys](https://drive.google.com/file/d/1ymSP2vLTWtRKhO4YVUcxe1uxleA2arN3/view?usp=share_link) (Stefano Cristiani)
+* [19:00 - 20:00] [Science drivers: InterGalactic Medium, Cosmology and Quasar Surveys](https://drive.google.com/file/d/1ymSP2vLTWtRKhO4YVUcxe1uxleA2arN3/view?usp=share_link) (Stefano Cristiani)
 
 ### June 9 (Friday)
 
