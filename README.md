@@ -34,7 +34,8 @@
 
 * [11:45 - 12:45] [Decision Trees](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
 
-* [14:15 - 16:30] [Tutorial:  SQL and SDSS CasJobs (prepared by D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb) (Paco)
+* [14:15 - ] [Tutorial: Globus + hdf5](https://docs.google.com/presentation/d/1ZVdCGm8y2DlsFsIXVV8F8n49bHeqwn4oXi_aq4FYOyM/edit?usp=sharing) (Paco)
+* [ - 16:30] [Tutorial:  SQL and SDSS CasJobs (prepared by D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb) (Paco)
 
 
 ### June 8 (Thursday)
