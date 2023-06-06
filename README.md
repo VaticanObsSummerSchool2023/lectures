@@ -47,6 +47,8 @@
 * [11:45 - 12.45] [Exercise: DT and kNN] (Viviana)
 
 * [12:45 - 14.15] Lunch
+
+* [14:15 - 16.00] [Tutorial: “Accessing data from CAMELS sims”]  (Paco)
   
 * [19:00 - 20:00] [Science drivers: InterGalactic Medium, Cosmology and Quasar Surveys](https://drive.google.com/file/d/1ymSP2vLTWtRKhO4YVUcxe1uxleA2arN3/view?usp=share_link) (Stefano Cristiani)
 
