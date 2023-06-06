@@ -27,6 +27,8 @@
 
 * [08:30 - 09:45] [Intro to ML I](https://docs.google.com/presentation/d/1oeS4rFJ1S8awk26LoJ4vUE2djAPq8e_I6GJtRC0_FqE/edit?usp=sharing) (Paco)
 
+* [10:15 - 11:30] [Intro to ML II] (Paco)
+
 * [11:45 - 12:45] [Decision Trees](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
 
 * [14:00 - 16:30] [Tutorial:  SQL and SDSS CasJobs (prepared by D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb) (Paco)
@@ -34,8 +36,11 @@
 
 ### June 8 (Thursday)
 
-* [10:15 - 11:30] [k Nearest Neighbors](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_kNN.pptx) (Viviana)
-* [11:45 - 12:45] [Diagnosing and Improving ML models](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
+* [08:30 - 09:45] [k Nearest Neighbors](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_kNN.pptx) (Viviana)
+
+* [10:15 - 11:30] [Evaluating, Diagnosing, and Improving ML models](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
+
+* [11:45 - 12.45] [Exercise: DT and kNN] (Viviana)
   
 * [19:00 - 20:00] [Science drivers: InterGalactic Medium, Cosmology and Quasar Surveys](https://drive.google.com/file/d/1ymSP2vLTWtRKhO4YVUcxe1uxleA2arN3/view?usp=share_link) (Stefano Cristiani)
 
