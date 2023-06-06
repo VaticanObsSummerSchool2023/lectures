@@ -20,7 +20,7 @@
 * [10:15 - 11:30] [Science drivers: Galaxies](https://docs.google.com/presentation/d/1oeS4rFJ1S8awk26LoJ4vUE2djAPq8e_I6GJtRC0_FqE/edit?usp=sharing) (Paco)
 * [11:45 - 12:45] [Science drivers: Quasars](https://drive.google.com/file/d/14W1t_oyJ4uErJvw-bvLwBje82Rd7_VQV/view?usp=share_link) (Stefano Cristiani)
 
-* [14:00 - 16:30] [Tutorial: Accessing and Manipulating Data](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune7.ipynb) (Zeljko)
+* [14:15 - 16:30] [Tutorial: Accessing and Manipulating Data](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune7.ipynb) (Zeljko)
 
 
 ### June 7 (Wednesday)
@@ -31,7 +31,7 @@
 
 * [11:45 - 12:45] [Decision Trees](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
 
-* [14:00 - 16:30] [Tutorial:  SQL and SDSS CasJobs (prepared by D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb) (Paco)
+* [14:15 - 16:30] [Tutorial:  SQL and SDSS CasJobs (prepared by D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb) (Paco)
 
 
 ### June 8 (Thursday)
@@ -45,6 +45,8 @@
 * [10:15 - 11:30] [Evaluating, Diagnosing, and Improving ML models](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
 
 * [11:45 - 12.45] [Exercise: DT and kNN] (Viviana)
+
+* [12:45 - 14.15] Lunch
   
 * [19:00 - 20:00] [Science drivers: InterGalactic Medium, Cosmology and Quasar Surveys](https://drive.google.com/file/d/1ymSP2vLTWtRKhO4YVUcxe1uxleA2arN3/view?usp=share_link) (Stefano Cristiani)
 
