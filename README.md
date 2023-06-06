@@ -27,6 +27,8 @@
 
 * [08:30 - 09:45] [Intro to ML I](https://docs.google.com/presentation/d/1oeS4rFJ1S8awk26LoJ4vUE2djAPq8e_I6GJtRC0_FqE/edit?usp=sharing) (Paco)
 
+* [10:15 - 11:30] [Intro to ML II] (Paco)
+
 * [11:45 - 12:45] [Decision Trees](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
 
 * [14:00 - 16:30] [Tutorial:  SQL and SDSS CasJobs (prepared by D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb) (Paco)
