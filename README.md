@@ -36,7 +36,7 @@
 
 ### June 8 (Thursday)
 
-* [08:30 - 09:45] [DT in code; k Nearest Neighbors](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Intro_DT_HabPlanets.ipynb) (Viviana)
+* [08:30 - 09:45] [DT in code](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Intro_DT_HabPlanets.ipynb) 
 
 		  [k Nearest Neighbors] (https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_kNN.pptx) 
 
