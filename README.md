@@ -7,6 +7,7 @@
 
 == [Evening events](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/EveningEvents.md) ==
 
+== [Project descriptions](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Projects.md) ==
 
 ### **WEEK 1**
 
