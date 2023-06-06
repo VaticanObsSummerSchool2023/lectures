@@ -36,8 +36,11 @@
 
 ### June 8 (Thursday)
 
-* [10:15 - 11:30] [k Nearest Neighbors](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_kNN.pptx) (Viviana)
-* [11:45 - 12:45] [Diagnosing and Improving ML models](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
+* [08:30 - 09:45] [k Nearest Neighbors](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_kNN.pptx) (Viviana)
+
+* [10:15 - 11:30] [Evaluating, Diagnosing, and Improving ML models](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
+
+* [11:45 - 12.45] [Exercise: DT and kNN] (Viviana)
   
 * [19:00 - 20:00] [Science drivers: InterGalactic Medium, Cosmology and Quasar Surveys](https://drive.google.com/file/d/1ymSP2vLTWtRKhO4YVUcxe1uxleA2arN3/view?usp=share_link) (Stefano Cristiani)
 
