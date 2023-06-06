@@ -5,6 +5,8 @@
 
 == [Software installation instructions](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/SOFTWARE_INSTALLATION.md) ==
 
+== [Evening events](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/EveningEvents.md) ==
+
 
 ### **WEEK 1**
 
