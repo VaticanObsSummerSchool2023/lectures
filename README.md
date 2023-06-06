@@ -36,11 +36,11 @@
 
 ### June 8 (Thursday)
 
-* [08:30 - 09:45] [DT in code](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Intro_DT_HabPlanets.ipynb) 
+* [08:30 - 09:45] [DT in code](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Intro_DT_HabPlanets.ipynb) (Viviana)
 
-		  [k Nearest Neighbors] (https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_kNN.pptx) 
+		  [k Nearest Neighbors](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_kNN.pptx) 
 
-		  [data] (https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/data/HPLearningSet.csv)	
+		  [data](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/data/HPLearningSet.csv)	
 
 * [10:15 - 11:30] [Evaluating, Diagnosing, and Improving ML models](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
 
