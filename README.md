@@ -76,6 +76,7 @@
 #### *No lectures - visit to Vatican!*
 
 ### June 16 (Friday)
+* [08:30 - 09:45] [Density estimation - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_density_estimation.ipynb) (Dalya)
 
 &nbsp;  
 ### **WEEK 3**
