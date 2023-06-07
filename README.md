@@ -70,7 +70,7 @@
 
 ### June 14 (Wednesday)
 * [08:30 - 09:45] [Input data and distance measures - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_input_data_and_distances_presentation.pdf) (Dalya)
-* [] [Input data and distance measures - Jupyter notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_input_data_and_distance_matrices.ipynb) (Dalya)
+* [08:30 - 09:45] [Input data and distance measures - Jupyter notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_input_data_and_distance_matrices.ipynb) (Dalya)
 
 ### June 15 (Thursday)
 
@@ -83,6 +83,9 @@
 ### **WEEK 3**
 
 ### June 19 (Monday)
+* [08:30 - 09:45] [Density estimation - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_density_estimation.ipynb) (Dalya)
+* [10:15 - 11:30] [Clustering - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_clustering_algorithms_presentation.pdf) (Dalya)
+* [10:15 - 11:30] [Clustering - Jupyter notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_clustering_algorithms.ipynb) (Dalya)
 
 ### June 20 (Tuesday)
 
