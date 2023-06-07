@@ -5,6 +5,9 @@
 
 == [Software installation instructions](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/SOFTWARE_INSTALLATION.md) ==
 
+== [Evening events](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/EveningEvents.md) ==
+
+== [Project descriptions](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Projects.md) ==
 
 ### **WEEK 1**
 
@@ -25,13 +28,14 @@
 
 ### June 7 (Wednesday)
 
-* [08:30 - 09:45] [Intro to ML I](https://docs.google.com/presentation/d/1oeS4rFJ1S8awk26LoJ4vUE2djAPq8e_I6GJtRC0_FqE/edit?usp=sharing) (Paco)
+* [08:30 - 09:45] [Intro to ML I](https://docs.google.com/presentation/d/1mMUBKLH6E-Br8ejE5PA7GJChcPNrA1M-XAgiu4HhZCU/edit?usp=sharing) (Paco)
 
-* [10:15 - 11:30] [Intro to ML II] (Paco)
+* [10:15 - 11:30] [Intro to ML II](https://docs.google.com/presentation/d/1KWKrTO_kcqkt9tJGKAm4bTFXw6Aunl4i_lywP5iS6bs/edit?usp=sharing) (Paco)
 
 * [11:45 - 12:45] [Decision Trees](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Intro_DT.pptx) (Viviana)
 
-* [14:15 - 16:30] [Tutorial:  SQL and SDSS CasJobs (prepared by D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb) (Paco)
+* [14:15 - ] [Tutorial: Globus + hdf5](https://docs.google.com/presentation/d/1ZVdCGm8y2DlsFsIXVV8F8n49bHeqwn4oXi_aq4FYOyM/edit?usp=sharing) (Paco)
+* [ - 16:30] [Tutorial:  SQL and SDSS CasJobs (prepared by D. Baron)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/sql_and_casjobs_tutorial.ipynb) (Paco)
 
 
 ### June 8 (Thursday)
