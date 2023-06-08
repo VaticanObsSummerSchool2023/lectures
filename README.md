@@ -48,7 +48,9 @@
 
 * [10:15 - 11:30] [Evaluating, Diagnosing, and Improving ML models](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Diagnostics.pptx) (Viviana)
 
-* [11:45 - 12.45] [Exercise: DT and kNN] (Viviana)
+* [11:45 - 12.45] [Exercise: DT and kNN](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/HP_Exercise.ipynb) (Viviana)
+
+* [Data](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/data/phl_exoplanet_catalog.csv)
 
 * [12:45 - 14.15] Lunch
 
