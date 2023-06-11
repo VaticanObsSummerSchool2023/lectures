@@ -68,17 +68,53 @@
 
 ### June 12 (Monday)
 
+* [08:30 - 09:45] [Regression - Lecture notes] (https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Regression.pptx)
+* [08:30 - 09:45] [Regression - Notebook] (https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/LinearRegression.ipynb)
+
+* [10:15 - 11:30]
+
+* [11:45 - 12:45] [Guest lecture by Adam Hincks: How to Measure the Oldest Light in the Universe and What it Tells us]
+
+* [12:45 - 14:15] Lunch
+
+Afternoon: Projects Discussion (exact timing TBD)
+
+* [19:00 - 20:00] Guest lecture by Giorgio Calderone: “QUBRICS: Selecting bright QSOs at high-z with Machine Learning techniques”. 
+
+
 ### June 13 (Tuesday)
 
+* [08:30 - 09:45] [Regularization, Parameter Optimization] 
+
+* [10:15 - 11:30]
+
+* [11:45 - 12:45] Student talks I
+
+* [12:45 - 14.15] Lunch
+
+* [19:00 - 20:00] Guest lecture by Maria Elena Monzani: “Data-intensive searches for Dark Matter” 
+
+
 ### June 14 (Wednesday)
+
 * [08:30 - 09:45] [Input data and distance measures - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_input_data_and_distances_presentation.pdf) (Dalya)
 * [08:30 - 09:45] [Input data and distance measures - Jupyter notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_input_data_and_distance_matrices.ipynb) (Dalya)
+
+* [10:15 - 11:30]
+
+* [11:45 - 12:45] Student talks II
+
+* [12:45 - 14.15] Lunch
+
+* [19:00 - 20:00] Guest lecture by Richard DSouza: "Reconstructing the history of individual Milky-Way mass galaxies through cosmological simulations" 
+
 
 ### June 15 (Thursday)
 
 #### *No lectures - visit to Vatican!*
 
 ### June 16 (Friday)
+
 * [08:30 - 09:45] [Density estimation - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_density_estimation.ipynb) (Dalya)
 
 &nbsp;  
