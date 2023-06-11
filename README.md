@@ -71,7 +71,7 @@
 * [08:30 - 09:45] [Regression - Lecture notes](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Regression.pptx) (Viviana)
 * [08:30 - 09:45] [Regression - Notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/LinearRegression.ipynb)
 
-* [10:15 - 11:30]
+* [10:15 - 11:30] [Numerical simulations and AI](https://docs.google.com/presentation/d/1gitkDRRD4m7G8ISsQGCqwulmOW5MUNXbudShYxbP8L0/edit?usp=sharing) (Paco)
 
 * [11:45 - 12:45] Guest lecture by Adam Hincks: How to Measure the Oldest Light in the Universe and What it Tells us
 
