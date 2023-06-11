@@ -68,12 +68,12 @@
 
 ### June 12 (Monday)
 
-* [08:30 - 09:45] [Regression - Lecture notes] (https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Regression.pptx)
-* [08:30 - 09:45] [Regression - Notebook] (https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/LinearRegression.ipynb)
+* [08:30 - 09:45] [Regression - Lecture notes](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Regression.pptx) (Viviana)
+* [08:30 - 09:45] [Regression - Notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/LinearRegression.ipynb)
 
 * [10:15 - 11:30]
 
-* [11:45 - 12:45] [Guest lecture by Adam Hincks: How to Measure the Oldest Light in the Universe and What it Tells us]
+* [11:45 - 12:45] Guest lecture by Adam Hincks: How to Measure the Oldest Light in the Universe and What it Tells us
 
 * [12:45 - 14:15] Lunch
 
@@ -88,7 +88,7 @@ Afternoon: Projects Discussion (exact timing TBD)
 
 * [10:15 - 11:30]
 
-* [11:45 - 12:45] Student talks I
+* [11:45 - 12:45] Student talks I (Hanneke, Belen, Francesco; Chair: Ashod)
 
 * [12:45 - 14.15] Lunch
 
@@ -102,7 +102,7 @@ Afternoon: Projects Discussion (exact timing TBD)
 
 * [10:15 - 11:30]
 
-* [11:45 - 12:45] Student talks II
+* [11:45 - 12:45] Student talks II (Bonny, Elodie, Rodrigo; Chair: Hanneke)
 
 * [12:45 - 14.15] Lunch
 
