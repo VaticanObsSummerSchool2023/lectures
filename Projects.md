@@ -1,5 +1,5 @@
 
-** Project 1 [Zeljko Ivezic, University of Washington/Rubin-LSST]: **
+**Project 1 [Zeljko Ivezic, University of Washington/Rubin-LSST]:**
 
 Summary: Test SDSS-based models for kinematics of stars in the Milky Way using Gaia proper motion measurements. Compare Gaia and SDSS distance estimates (for millions of stars).
 
