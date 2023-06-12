@@ -1,5 +1,5 @@
 
-Project 1 [Zeljko Ivezic, University of Washington/Rubin-LSST]:
+** Project 1 [Zeljko Ivezic, University of Washington/Rubin-LSST]: **
 
 Summary: Test SDSS-based models for kinematics of stars in the Milky Way using Gaia proper motion measurements. Compare Gaia and SDSS distance estimates (for millions of stars).
 
@@ -23,19 +23,41 @@ Expected Outcome: working knowledge of time series analysis. If we find any star
 
 Project 3 [Giorgio Calderone, INAF-OATs]: 
 
-Search for bright high-z QSOs in the SkyMapper/PAN-STARRS survey. The students will search for new, bright QSOs at z>2 in the SkyMapper/PAN-STARRS photometric survey, following a multi-disciplinary approach:
+Summary: Search for bright high-z QSOs in the SkyMapper/PAN-STARRS survey.
 
-- data collection: download data from SkyMapper/PAN-STARRS and auxiliary databases (e.g. Gaia, WISE, QSO catalogs);
+Data sources: SkyMapper, PAN-STARRS, Gaia, WISE surveys, QSO catalogs (pre-downloaded).
 
-- data preparation: cross-match the input catalogs, preliminary source classification and feature selection;
+Methods and tools: The students will search for new, bright QSOs at z>2 in the SkyMapper/PAN-STARRS photometric survey, following a multi-disciplinary approach:
 
-- QSO candidate selection: train a machine learning model to predict a source classification and estimate its redshift (if the source is extragalactic);
+data collection: download data from photometric surveys and auxiliary databases ;
+data preparation: cross-match the input catalogs, preliminary source classification and feature selection;
+QSO candidate selection: train a machine learning model to predict a source classification and estimate its redshift (if the source is extragalactic);
+Estimate the performances of the selection process and propose possible improvements.
 
-- estimate the performances of the selection process and propose possible improvements.
+Expected outcome: identify the most promising features and ML methods for classification and redshift estimates.  Improve upon currently available results, specifically on the redshift estimation (potential to be a journal publication).
 
-Project 4 [Francisco Navarro, Flatiron Institute/Princeton University] Investigate whether galaxy properties can be used to constrain properties about their environment, e.g. the matter overdensity and the tidal tensor. We will use galaxies from the CAMELS project and we will use several machine learning algorithms to address these questions, like random forest and neural networks. We will perform both regression and likelihood-free inference. The data will be provided to the students.
 
-Project 5 [Francisco Navarro, Flatiron Institute/Princeton University]: We will use convolutional neural networks to investigate whether they can distinguish between different types of dark matter models in the universe, like cold dark matter and warm dark matter. For this, we will use 2D images from either N-body or full hydrodynamic simulations that will be provided to the students.
+Project 4 [Francisco Navarro, Flatiron Institute/Princeton University] 
+
+Summary: Investigate whether galaxy properties correlate with local underlying matter density field. 
+
+Data sources: Galaxies from the CAMELS simulations. 
+
+Methods and tools: Decision trees and/or neural networks combined with likelihood-free inference. If time allows, also usage of symbolic regression to obtain analytic equations. 
+
+Expected outcome: Quantify the correlation between galaxy properties and dark matter density. First steps to apply it to real data. Potential to be a journal publication.
+
+
+Project 5 [Francisco Navarro, Flatiron Institute/Princeton University]: 
+
+Summary: Using deep learning tools to distinguish between different dark matter models (e.g. cold vs warm).
+
+Data sources: Dark CAMELS simulations.
+
+Methods and tools: Convolution neural networks, fully connected layers and depending on time, graph neural networks. 
+
+Expected outcome: Develop AI tools to discriminate between different dark matter models. Potential to be a journal publication. 
+
 
 Project 6 [Zeljko Ivezic, University of Washington/Rubin-LSST]:
 
