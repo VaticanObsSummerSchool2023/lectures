@@ -102,7 +102,8 @@ Afternoon: Projects Discussion (exact timing TBD)
 * [08:30 - 09:45] [Input data and distance measures - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_input_data_and_distances_presentation.pdf) (Dalya)
 * [08:30 - 09:45] [Input data and distance measures - Jupyter notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_input_data_and_distance_matrices.ipynb) (Dalya)
 
-* [10:15 - 11:30]
+* [10:15 - 11:30] [Ensemble methods](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Bagging_Boosting.pptx) (Viviana)
+* [10:15 - 11:30] [Photoz w/ RF Notebook]((https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Photoz_RF.ipynb)
 
 * [11:45 - 12:45] Student talks II (Bonny, Elodie, Rodrigo; Chair: Hanneke)
 
