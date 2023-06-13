@@ -86,7 +86,7 @@ Afternoon: Projects Discussion (exact timing TBD)
 
 * [08:30 - 09:45] [Regularization, Parameter Optimization] 
 
-* [10:15 - 11:30]
+* [10:15 - 11:30] [Working with neural networks](https://colab.research.google.com/drive/1e846wc10-bQgxqPUJMlo-VBA2aHW77d5?usp=sharing) (Paco)
 
 * [11:45 - 12:45] Student talks I (Hanneke, Belen, Francesco; Chair: Ashod)
 
