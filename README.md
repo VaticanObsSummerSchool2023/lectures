@@ -84,7 +84,9 @@ Afternoon: Projects Discussion (exact timing TBD)
 
 ### June 13 (Tuesday)
 
-* [08:30 - 09:45] [Regularization, Parameter Optimization] 
+* [08:30 - 09:45] [Regularization - Lecture notes](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Regularization.pptx) (Viviana)
+* [08:30 - 09:45] [ParamOp - Lecture notes](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_ParamOp.pptx) (Viviana)
+* [08:30 - 09:45] [Param Op - Notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/ParticleIDwDT.ipynb)
 
 * [10:15 - 11:30] [Working with neural networks](https://colab.research.google.com/drive/1e846wc10-bQgxqPUJMlo-VBA2aHW77d5?usp=sharing) (Paco)
 
