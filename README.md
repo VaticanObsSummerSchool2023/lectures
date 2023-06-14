@@ -94,7 +94,7 @@ Afternoon: Projects Discussion (exact timing TBD)
 
 * [12:45 - 14.15] Lunch
 
-* [19:00 - 20:00] Guest lecture by Maria Elena Monzani: “Data-intensive searches for Dark Matter” 
+* [19:00 - 20:00] Guest lecture by Maria Elena Monzani: [Data-intensive searches for Dark Matter](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Monzani-GuestTalk-Jun13.pdf) 
 
 
 ### June 14 (Wednesday)
