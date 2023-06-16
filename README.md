@@ -119,9 +119,13 @@ Afternoon: Projects Discussion (exact timing TBD)
 ### June 16 (Friday)
 
 * [08:30 - 09:45] [Density estimation - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_density_estimation.ipynb) (Dalya)
+
 * [10:15 - 11:30] [Boosting and Feature Importance](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_Boosting_FeatImp.pptx) (Viviana)
+
 * [10:15 - 11:30] [Boosting Notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/VOSS_FlavorsOfBoosting.ipynb)
 
+* [11:45 - 12:45] [High-z AGNs and their possible role on Reionization (ppt)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Grazian_VOSS2023.ppt) (Andrea Grazian)
+* [11:45 - 12:45] [High-z AGNs and their possible role on Reionization (pdf)](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Grazian_VOSS2023.pdf) (Andrea Grazian)
 
 &nbsp;  
 ### **WEEK 3**
