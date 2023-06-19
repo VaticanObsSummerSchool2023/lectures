@@ -134,7 +134,9 @@ Afternoon: Projects Discussion (exact timing TBD)
 * [08:30 - 09:45] [Clustering - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_clustering_algorithms_presentation.pdf) (Dalya)
 * [08:30 - 09:45] [Clustering - Jupyter notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_clustering_algorithms.ipynb) (Dalya)
 
+* [10:15-11:30] [Dimensionality Reduction Part 1 (PCA) - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_dimensionality_reduction_pca_nmf.pdf) (Dalya)
 * [10:15-11:30] [Dimensionality Reduction Part 1 (PCA) - Jupyter notebook](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_dimensionality_reduction_PCA_ICA_NNMF.ipynb) (Dalya)
+
 
 ### June 20 (Tuesday)
 
