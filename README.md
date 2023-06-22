@@ -146,6 +146,9 @@ Afternoon: Projects Discussion (exact timing TBD)
 * [10:15-11:30] [Dimensionality Reduction Part 3 (Sequencer) - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_sequencer.pdf) (Dalya)
 
 ### June 21 (Wednesday)
+* [08:30-09:45] [Dimensionality Reduction - example with the PHANGS dataset](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_dimensionality_reduction_PHANGS_example.pdf) (Dalya)
+
+* [10:15-11:30] [Outlier Detection - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_outlier_detection_algorithms.pdf) (Dalya)
 
 ### June 22 (Thursday)
 * [8:30-9:45] [Introduction to Deep Learning 1](linkHere) (Marc)
