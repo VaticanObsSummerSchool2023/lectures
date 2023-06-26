@@ -151,11 +151,11 @@ Afternoon: Projects Discussion (exact timing TBD)
 * [10:15-11:30] [Outlier Detection - lecture](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/Baron_outlier_detection_algorithms.pdf) (Dalya)
 
 ### June 22 (Thursday)
-* [8:30-9:45] [Introduction to Deep Learning 1](linkHere) (Marc)
+* [8:30-9:45] [Introduction to Deep Learning 1](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/MHC_lecture1.pdf) (Marc)
 * [10:15-11:30] [Maximum Likelihood Method](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune22.ipynb) (Zeljko)
 
 ### June 23 (Friday)
-* [8:30-9:45] [Introduction to Deep Learning  2](linkHere) (Marc)
+* [8:30-9:45] [Introduction to Deep Learning  2](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/MHC_lecture2.pdf) (Marc)
 * [10:15-11:30] [Introduction to Bayesian statistics](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune23.ipynb) (Zeljko)
 
 
@@ -163,7 +163,8 @@ Afternoon: Projects Discussion (exact timing TBD)
 ### **WEEK 4**
 
 ### June 26 (Monday)
-
+* [8:30-9:45] [CNNs1](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/MHC_lecture2.pdf) (Marc)
+* [10:15-11:30] [CNNs2](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune23.ipynb) (Marc) 
 ### June 27 (Tuesday)
 
 ### June 28 (Wednesday)
