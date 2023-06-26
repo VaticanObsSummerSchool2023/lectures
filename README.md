@@ -163,8 +163,8 @@ Afternoon: Projects Discussion (exact timing TBD)
 ### **WEEK 4**
 
 ### June 26 (Monday)
-* [8:30-9:45] [CNNs1](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/MHC_lecture2.pdf) (Marc)
-* [10:15-11:30] [CNNs2](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune23.ipynb) (Marc) 
+* [8:30-9:45] [CNNs1](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/MHC_lecture3.pdf) (Marc)
+* [10:15-11:30] [CNNs2](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/MHC_lecture4.pdf) (Marc) 
 ### June 27 (Tuesday)
 
 ### June 28 (Wednesday)
