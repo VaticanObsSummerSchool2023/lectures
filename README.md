@@ -166,10 +166,11 @@ Afternoon: Projects Discussion (exact timing TBD)
 * [8:30-9:45] [CNNs1](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/MHC_lecture3.pdf) (Marc)
 * [10:15-11:30] [CNNs2](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/MHC_lecture4.pdf) (Marc) 
 ### June 27 (Tuesday)
-
+* [8:30-9:45] [Transformers1](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/MHC_lecture5.pdf) (Marc)
+*  [10:15-11:30] [Transformers1](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/L07b_Transformer.ipynb) (Marc)
 ### June 28 (Wednesday)
 
-* [8:30-9:45] [Generative Models 1](linkHere) (Marc)
+* [8:30-9:45] [Generative Models 1]() (Marc)
 * [10:15-11:30] [Markov Chain Monte Carlo methods](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune28.ipynb) (Zeljko)
 
 ### June 29 (Thursday)
