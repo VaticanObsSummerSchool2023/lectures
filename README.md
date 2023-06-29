@@ -176,7 +176,7 @@ Afternoon: Projects Discussion (exact timing TBD)
 ### June 29 (Thursday)
 
 * [8:30-9:45] [MCMC applications in Bayesian statistics](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/IvezicJune29.ipynb) (Zeljko)
-* [10:15-11:30] [Generative Models 2](linkHere) (Marc)
+* [10:15-11:30] [Generative Models 2](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/MHC_lecture8.pdf) (Marc)
 
 
 ### June 30 (Friday)
